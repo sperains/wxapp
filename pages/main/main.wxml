@@ -1,0 +1,4 @@
+<!--main.wxml-->
+<view class="container log-list">
+  main page
+</view>
